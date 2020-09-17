@@ -105,7 +105,7 @@ Outros pontos que vamos considerar na avaliação:
 1. Crie um arquivo `README.md` descrevendo como configurar o projeto, contendo os
 comandos que devem ser executados para rodar o software e os testes;
 2. Suba o projeto no seu github;
-3. Disponibilize o link e nos envie a URL por email.
+3. Disponibilize o link e nos envie a URL para o email <a href="mailto:julio.sousa@gok.digital" target="_blank">julio.sousa@gok.digital</a>.
 
 Obs: Se você fez uso de algum Linter, envie o arquivo
 de configuração junto com o projeto e descreva qual linter está sendo utilizado no
