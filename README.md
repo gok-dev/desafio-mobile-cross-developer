@@ -80,6 +80,11 @@ essa tag.
 - A interface deve ficar o mais fiel possivel do layout disponibilizado.
 - Deve-se manter a organização de código seguindo as boas praticas de desenvolvimento.
 
+##### Material de Apoio
+
+- Segue abaixo o layout no figma que deverá ser seguido para o desenvolvimento da aplicação, é muito importante que o desenvolvimeto tente seguir o mais fiel possivel o layout criado pelo nosso time de designers pois isso será avaliado tambem.
+- [Link Layout Figma](https://www.figma.com/file/uR0fFDDioCfd8uZVQnpHWW/Teste-Front-End-Mobile)
+
 ## O que vai ser avaliado?
 
 Queremos avaliar sua capacidade em entregar um produto completo e com
