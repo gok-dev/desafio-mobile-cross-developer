@@ -100,6 +100,10 @@ Outros pontos que vamos considerar na avaliação:
 - Linter/Análise estática do código.
 - README.md bem escrito, curto e com os comandos necessários para rodar a aplicação, bastando copiar/colar no terminal.
 
+## Prazo para entrega
+
+- O prazo para envio do teste é de 4 dias contando a partir do momento que o nosso RH passar o teste para o candidato.
+
 ## Instruções para entrega
 
 1. Crie um arquivo `README.md` descrevendo como configurar o projeto, contendo os
